@@ -1,2 +1,2 @@
-# graphics-project
+# Format
 Computer Graphics Semeseter Mini Project
